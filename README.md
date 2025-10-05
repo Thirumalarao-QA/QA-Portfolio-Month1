@@ -34,9 +34,8 @@ Welcome to my **Month 1 QA Portfolio** — this repository showcases my learning
 
 ## 📬 Contact
 
-- **Name:** Tiru  
-- **Email:** _[Add your email here]_  
-- **LinkedIn (Optional):** _[Add your link if available]_  
+- **Name:** Thirumalarao Tammineni
+- **Email:** tirutammineni18@gmail.com 
 
 ---
 
